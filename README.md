@@ -14,7 +14,7 @@ Thanks to download my tool and waiting tool updates.ツ
 
 ════════════════════════
 
-Install Commands
+Install Commands:>
 
 git clone 
 
