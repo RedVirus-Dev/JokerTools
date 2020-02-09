@@ -16,7 +16,7 @@ Thanks to download my tool and waiting tool updates.ツ
 
 Install Commands:>
 
-git clone 
+git clone https://github.com/RedVirus-Dev/JokerTools.git
 
 cd JokerTools
 
