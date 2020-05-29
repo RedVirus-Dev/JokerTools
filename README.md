@@ -11,6 +11,6 @@ Tool finished in ~>> 3 February 2020 <<~
 
 Waiting to0l updates ....ツ
 
-Thank you to download my toOl.
+Thank you for download my toOl.
 
 Enjoy  ◕‿-
